@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a831c913.css",
+    "main.js": "/static/js/main.3fd93cce.js",
+    "static/js/787.2c360b47.chunk.js": "/static/js/787.2c360b47.chunk.js",
+    "static/media/bg.png": "/static/media/bg.ae1b3f67159cceb8a01e.png",
+    "static/media/tomato.jpg": "/static/media/tomato.083a1b0e95276e618156.jpg",
+    "index.html": "/index.html",
+    "main.a831c913.css.map": "/static/css/main.a831c913.css.map",
+    "main.3fd93cce.js.map": "/static/js/main.3fd93cce.js.map",
+    "787.2c360b47.chunk.js.map": "/static/js/787.2c360b47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a831c913.css",
+    "static/js/main.3fd93cce.js"
+  ]
+}

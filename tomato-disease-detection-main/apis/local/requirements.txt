@@ -1,0 +1,7 @@
+fastapi
+Pillow
+numpy
+uvicorn
+python-multipart
+tensorflow==2.16.2
+setuptools==69.5.1

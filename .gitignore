@@ -1,0 +1,13 @@
+.venv/
+.venv*/
+**/.venv/
+**/.venv*/
+node_modules/
+**/node_modules/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+**/.pytest_cache/
+.DS_Store
+*.zip
